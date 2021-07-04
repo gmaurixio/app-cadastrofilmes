@@ -1,0 +1,16 @@
+C:\repos\GM.Filmes\bin\Debug\net5.0\GM.Filmes.exe
+C:\repos\GM.Filmes\bin\Debug\net5.0\GM.Filmes.deps.json
+C:\repos\GM.Filmes\bin\Debug\net5.0\GM.Filmes.runtimeconfig.json
+C:\repos\GM.Filmes\bin\Debug\net5.0\GM.Filmes.runtimeconfig.dev.json
+C:\repos\GM.Filmes\bin\Debug\net5.0\GM.Filmes.dll
+C:\repos\GM.Filmes\bin\Debug\net5.0\ref\GM.Filmes.dll
+C:\repos\GM.Filmes\bin\Debug\net5.0\GM.Filmes.pdb
+C:\repos\GM.Filmes\obj\Debug\net5.0\GM.Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\GM.Filmes\obj\Debug\net5.0\GM.Filmes.AssemblyInfoInputs.cache
+C:\repos\GM.Filmes\obj\Debug\net5.0\GM.Filmes.AssemblyInfo.cs
+C:\repos\GM.Filmes\obj\Debug\net5.0\GM.Filmes.csproj.CoreCompileInputs.cache
+C:\repos\GM.Filmes\obj\Debug\net5.0\GM.Filmes.dll
+C:\repos\GM.Filmes\obj\Debug\net5.0\ref\GM.Filmes.dll
+C:\repos\GM.Filmes\obj\Debug\net5.0\GM.Filmes.pdb
+C:\repos\GM.Filmes\obj\Debug\net5.0\GM.Filmes.genruntimeconfig.cache
+C:\Repos\GM.Filmes\obj\Debug\net5.0\GM.Filmes.csprojAssemblyReference.cache
